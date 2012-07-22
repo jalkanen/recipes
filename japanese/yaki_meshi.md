@@ -1,13 +1,13 @@
 Yaki Meshi - fried noodles
 =================
 
-1 onion
-1 carrot
-4 eggs
-50g smoked ribs
-100g peeled shrimp
-boiled rice
-salt and pepper
+* 1 onion
+* 1 carrot
+* 4 eggs
+* 50g smoked ribs
+* 100g peeled shrimp
+* boiled rice
+* salt and pepper
 
 Cut onion into small pieces, cut carrot and ribs to small cubes.
 
